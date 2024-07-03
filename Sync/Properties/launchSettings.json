@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sync": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\admin\\Desktop\\test1\r\nC:\\Users\\admin\\Desktop\\test2\r\n30\r\nC:\\Users\\admin\\Desktop\\test3\\log.txt"
+    }
+  }
+}
